@@ -1,5 +1,5 @@
 # Projet_BigData_Airtrafic
-Ce Projet concerne le trafic aérien entre 2016 et 2023
+Ce Projet concerne le trafic aérien entre 2016 et 2023.
 Dans ce projet plusieurs modèles on été réalisé , notemment le modèle Prophet, MLforecast et Neural forecast
 
 # Organisation du projet
